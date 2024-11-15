@@ -1,5 +1,11 @@
 import random
 
+class card:
+    def __init__(self,name,cost,effect):
+        self.name = name
+        self.cost = cost
+        self.effect = effect
+
 secretCards = ["The treasure"]
 legendaryCards = ["Gormok the destroyer", "Finizul", "Joe", "The end of times", "The Everdream", "Herodos, the lonely planet"]
 epicCards = ["Arathula the spider mother", "Nevastros lord of the oceans", "Menezul the demon lord", "Herodos the lonely planet","Skibidisigma the Brainrot"]
