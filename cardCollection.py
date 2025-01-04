@@ -7,7 +7,7 @@ class card:
         self.effect = effect
 
 secretCards = ["The treasure"]
-legendaryCards = ["Gormok the destroyer", "Finizul", "Joe", "The end of times", "The Everdream", "Herodos, the lonely planet"]
+legendaryCards = ["Gormok the destroyer", "Finizul", "Joe", "The end of times", "The Everdream", "Terrodos, the lonely galaxy"]
 epicCards = ["Arathula the spider mother", "Nevastros lord of the oceans", "Menezul the demon lord", "Herodos the lonely planet","Skibidisigma the Brainrot"]
 rareCards = ["Knight", "Greater demon","Hungry shark", "Fireball","Drain life","Shaboinky"]
 commonCards = ["Peasant", "Clown fish", "Spider","Imp","Drop of water","Match"]
